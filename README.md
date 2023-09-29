@@ -1,11 +1,11 @@
-### Hi there 👋
+***Hi there 👋***
 
 - I'm currently working on: web app that plays subway surfer videos for ur bad attention span
 - I'm currently learning: HTML, CSS, and Javascript, Machine Learning
 - How to reach me: hyz4@cornell.edu works best!!
 - Fun fact: I really like Nagito Komaeda!!
 
-### My best projects on Github & Figma!
+***My best projects on Github & Figma!***
 
 - [Assitive Tehnology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
 - [MIT BWSI Serious Games and AI: Outbreak!](https://github.com/Czedros/SGAI-Uly-1)
