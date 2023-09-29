@@ -6,6 +6,7 @@
 - Fun fact: I really like Nagito Komaeda!!
 
 ### My best projects on Github & Figma!
+
 - [Assitive Tehnology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
 - [MIT BWSI Serious Games and AI: Outbreak!](https://github.com/Czedros/SGAI-Uly-1)
   -   Consists of multiple branches. I worked on the Assets and the MCTS (AI branch)
