@@ -7,7 +7,7 @@
 
 ***My best projects on Github & Figma!***
 
-- [Assitive Tehnology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
+- [Assistive Technology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
 - [MIT BWSI Serious Games and AI: Outbreak!](https://github.com/Czedros/SGAI-Uly-1)
   -   Consists of multiple branches. I worked on the Assets and the MCTS (AI branch)
 - [Bereal Figma Design!](https://www.figma.com/proto/1NgrHknY7yuJuxf3dRgOT5/BeReal?type=design&node-id=46-614&t=U4nJa4j95w6oOubX-1&scaling=scale-down&page-id=46%3A613&starting-point-node-id=46%3A614&mode=design)
