@@ -2,6 +2,7 @@
 
 - I'm currently working on: web app that plays subway surfer videos for ur bad attention span
 - I'm currently learning: [HTML, CSS, and Javascript](https://github.com/plumshum/javascript-amazon-project-main/tree/main), Machine Learning
+- I'm currently a part of Cornell Digital Tech and Innovation, developing Courseplan!
 - How to reach me: hyz4@cornell.edu works best!!
 - Fun fact: I really like Nagito Komaeda!!
 
