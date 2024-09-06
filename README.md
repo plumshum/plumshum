@@ -1,5 +1,8 @@
 ***Hi there 👋***
 
+### [Link to Mini Website about Me] (https://plumshum.github.io/portfolio/) ###
+
+
 - I'm currently working on: web app that plays subway surfer videos for ur bad attention span
 - I'm currently learning: Vue.Js and Machine Learning
 - I'm currently a part of Cornell Digital Tech and Innovation, developing Courseplan!
