@@ -1,6 +1,6 @@
 ***Hi there 👋***
 
-### [Link to Mini Website about Me] (https://plumshum.github.io/portfolio/) ###
+### [Link to Mini Website about Me](https://plumshum.github.io/portfolio/) ###
 
 
 - I'm currently working on: web app that plays subway surfer videos for ur bad attention span
