@@ -10,6 +10,7 @@
 - Fun fact: I really like Nagito Komaeda!!
 
 ***My best projects on Github & Figma!***
+- [Courseplan](https://github.com/cornell-dti/course-plan/)
 - [FA23 AppDev Hack Challenge Cornell Types](https://github.com/maxslarsson/cornell-types-frontend)
 - [Assistive Technology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
 - [MIT BWSI Serious Games and AI: Outbreak!](https://github.com/Czedros/SGAI-Uly-1)
