@@ -1,12 +1,12 @@
 ***Hi there 👋***
 
-- I'm currently working on: web app that plays subway surfer videos for ur bad attention span
-- I'm currently learning: Vue.Js and Machine Learning
-- I'm currently a part of Cornell Digital Tech and Innovation, developing Courseplan!
+- I'm currently ideating on: How to make Cornell Student Roster visually appealing and accessible...
+- I'm currently a part of Cornell Digital Tech and Innovation (DTI). I monitor apps such as Courseplan and Zing. 
 - How to reach me: hyz4@cornell.edu works best!!
 - Fun fact: I really like Nagito Komaeda!!
 
 ***My best projects on Github & Figma!***
+- [AI Podcast Recommendation Search Engine](https://lychee-labs.4300showcase.infosci.cornell.edu/)
 - [Courseplan](https://github.com/cornell-dti/course-plan/)
 - [FA23 AppDev Hack Challenge Cornell Types](https://github.com/maxslarsson/cornell-types-frontend)
 - [Assistive Technology Automatic Fall Detection System:](https://github.com/Assistive-Technology-Create-Team/plumshum.github.io)
